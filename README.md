@@ -1,3 +1,3 @@
-# Arduino 
+# Arduino Kill-time
 
-Basic sketches for learning programming in Arduino 
+Basic sketches for learn programming in Arduino
