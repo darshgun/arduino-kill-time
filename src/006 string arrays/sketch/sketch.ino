@@ -1,5 +1,5 @@
 const int len = 6;
-char my_array[len] = "Hello";
+char my_array[len] = "Hello"; // "H", "e", "l", "l", "o", "\0"
 
 void setup()
 {
